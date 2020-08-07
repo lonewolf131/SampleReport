@@ -30,7 +30,6 @@ Un Ordered List
     - Apple4
       - Apple 5
         - Apple 6
-          - Apple 7
   - Apple2
   - Apple3
 - Mango
